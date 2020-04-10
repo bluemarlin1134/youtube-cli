@@ -1,2 +1,2 @@
 # youtube-cli
-a commandline youtube payer without needing a youtube account
+a commandline youtube player without needing a youtube account
